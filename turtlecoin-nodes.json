@@ -159,6 +159,12 @@
       "port": 11898,
       "ssl": false,
       "cache": false
+    },
+      "name": "Larry's Turtlenode- Germany"
+      "url": "turtlecoin.dynu.net",
+      "port": 11898,
+      "ssl": false, 
+      "cache": false
     }
   ]
 }
